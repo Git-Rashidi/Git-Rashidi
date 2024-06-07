@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Mohammad.Hasan.Rashidi .
-- 🌱 I’m currently learning Front end programmer .
+- 🌱 I’m currently learning Front-end programming .
